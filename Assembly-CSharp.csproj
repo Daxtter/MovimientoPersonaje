@@ -49,6 +49,7 @@
      <Compile Include="Assets\Script\BulletScript.cs" />
      <Compile Include="Assets\Script\ControlDeJugador.cs" />
      <Compile Include="Assets\Script\EnemyBehaivour.cs" />
+     <Compile Include="Assets\Controller Tester\Scripts\DetectUnknownControllerMappings.cs" />
      <None Include="Assets\VoxelAnimals\Documentation\ReadMe.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.1f1-x86_64\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
